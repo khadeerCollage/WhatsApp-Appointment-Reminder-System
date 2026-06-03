@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+supabase
+python-dotenv
+httpx
+apscheduler
+pydantic
+pydantic-settings
+twilio
